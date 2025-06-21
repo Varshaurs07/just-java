@@ -1,5 +1,5 @@
 import java.util.*;
-public class SpecialNumber {
+public class specialnumber {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Special number between 10 and 99 are:");
