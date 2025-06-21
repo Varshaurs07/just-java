@@ -5,8 +5,8 @@ public static void main(String[] args) {
        int a = sc.nextInt();
        int b = sc.nextInt();
        a = a + b;
-       b = a – b;
-       a = a – b;
+       b = a - b;
+       a = a - b;
     System.out.println("After swapping" + " " + a + " " + b);
     }
 }
